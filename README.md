@@ -2,7 +2,7 @@
 
 Fast Pizza is a sleek, modern, and responsive web application for ordering pizzas online. It showcases an intuitive interface, dynamic features, and fast-loading pages for a seamless user experience.  
 
-**Live Demo:** [Fast Pizza](https://fast-pizza-gold.vercel.app/)  
+**Live Demo:** [Fast Pizza](https://fast-pizza-coral.vercel.app/)  
 
 ---
 
@@ -70,7 +70,7 @@ Make sure you have the following installed:
 
 ## 🌟 Live Demo  
 
-Check out the live version of the application: [Fast Pizza](https://fast-pizza-gold.vercel.app/)  
+Check out the live version of the application: [Fast Pizza](https://fast-pizza-coral.vercel.app/)  
 
 ---
 
