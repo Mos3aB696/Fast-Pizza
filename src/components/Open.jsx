@@ -10,12 +10,13 @@ export default function Open() {
       <h2>
         {isOpen
           ? `We are open from ${openHour}:00 to ${closeHour}:00`
-          : "We are"}{" "}
+          : `We are`}{" "}
         {isOpen === false ? <span style={{ color: "red" }}>closed</span> : null}
       </h2>
       <p style={{ fontSize: "14px" }}>
         {isOpen ? "Order your pizza now!" : "We are open from 12:00 to 22:00"}
       </p>
+
       <Button isOpen={isOpen} />
     </div>
   );
