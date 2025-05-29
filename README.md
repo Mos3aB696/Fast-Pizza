@@ -98,5 +98,5 @@ If you have any questions or need further assistance:
 
 **Mosaab Abdelkawy**
 - [LinkedIn](https://www.linkedin.com/in/mosaab-abdelkawy/)
-- [YouTube](https://youtube.com/@tapseta696?si=7q1LRJdUoOW2Yamk)
+- [YouTube](https://youtube.com/@tapseta)
 
